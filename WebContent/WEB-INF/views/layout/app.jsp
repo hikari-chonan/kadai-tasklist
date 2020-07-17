@@ -9,7 +9,7 @@
 <body>
     <div id="wrapper">
         <div id="header">
-            <h1>タスクリスト アプリケーション</h1>
+            <h1>タスクリスト</h1>
         </div>
         <div id="content">${param.content}</div>
         <div id="footer">by Hikari Chonan.</div>
